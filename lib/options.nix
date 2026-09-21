@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # lib/options.nix
 #
 # Option fragments shared by the two object kinds this repo models (modules/containers.nix,

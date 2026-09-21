@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # checks/system-manager-eval-tests.nix
 #
 # THE PLANE THIS REPO IS ACTUALLY DEPLOYED ON. nixdocker is scoped to one development workstation,

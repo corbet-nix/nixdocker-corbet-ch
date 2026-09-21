@@ -234,7 +234,7 @@ model of Compose's file format or lifecycle.
 
 ```nix
 {
-  inputs.nixdocker.url = "github:julian-corbet/nixdocker-corbet-ch";
+  inputs.nixdocker.url = "github:corbet-nix/nixdocker-corbet-ch";
 
   outputs = { self, nixpkgs, nixdocker, ... }: {
     # ...or nixdocker.systemManagerModules.default, which is the plane this is deployed on.
@@ -319,6 +319,6 @@ that transcript; it is not re-invoked by `nix flake check`.
 and any form of network reconciliation. Nothing in this repo has ever started a docker daemon, and
 the first host to set `firewallBackend` is the test of that option.
 
-## License
+## Licence
 
-[MIT License](LICENSE) &copy; 2026 Julian Corbet
+Outbound licence is `MIT OR Apache-2.0`. See `LICENSE-MIT` and `LICENSE-APACHE`; every source file carries `SPDX-License-Identifier: MIT OR Apache-2.0`.

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # lib/render.nix
 #
 # Pure rendering: a resolved container/network option value (every option already at its final

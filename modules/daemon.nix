@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # modules/daemon.nix
 #
 # `nixdocker.daemon` -- the part of this repo that has no counterpart in its podman sibling at all.

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # modules/nixdocker.nix
 #
 # THE WIRING, and everything about it that is TRUE ON EVERY PLANE. The other modules in this

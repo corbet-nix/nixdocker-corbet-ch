@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # modules/networks.nix
 #
 # `nixdocker.networks.<name>` -- a named docker network, pre-created by a unit rather than by

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 {
   description = "Typed Nix options for digest-pinned docker containers, and a declarative dockerd, on a plane that has no `virtualisation.*` -- rendered to ordinary systemd units, with the daemon off unless a host says otherwise.";
 
